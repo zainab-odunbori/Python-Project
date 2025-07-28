@@ -119,7 +119,7 @@ We recommend the following:
 5. Brand-Level Promotions:
    - Promote Toyota, Ford, and Chevrolet heavily — their popularity means faster sales turnover.
    - Consider extended warranty or service packages for these brands to boost sales volume.
-owv-izmj-kcg
+
 6. Data-Driven Pricing:
    - Implement a pricing model based on mileage, brand, and color popularity to optimize profit while staying competitive.
 
