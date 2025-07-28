@@ -89,6 +89,52 @@ Import Library and Dataset
 
   #Verify data types print(df.dtypes) </pre>
   
+
+  ### Results
+
+Summary of Key Insights from the car Inventory Analysis Price Trends:
+
+1. Car Prices range: The car prices range widely, but most fall between $2000 - $4000. The avaerage car price is around $3,000, indicating a focus on affordable usedf cars.
+2. Mileage vs. Price: Cars with lower mileage generally cost more, which is expected, there are a few high-mileage generally cost more, which is expected, there are a few high-mileage vehicles priced higher-possibly due to brand value or condition.
+3. Popular Brands: The most common brands in the inventory are Toyota, Ford, and Chevrolet. This may suggest either high customer demand or dealer preference for these brands.
+4. Car Color Prefences : Colors like Silver, Black,and White dominate the inventory. This can be useful in restocking and marketing based on color popularity.
+5. Profitability: The average profit margin differs by brand. Brands like Ford and Chevrolet seem to have higher average profits compared to others.
+
+
+### Recommendation
+
+We recommend the following: 
+
+1. Inventory Planning:
+   - Continue focusing on the $2k–$4k price range to attract cost-conscious buyers.
+   - Maintain a balance of affordable vehicles with low mileage to appeal to both price and quality seekers.
+   - 
+2. Targeted Procurement:
+   - Prioritize Ford and Chevrolet for stock replenishment due to higher profitability.
+   - Evaluate conditions of high-mileage but high-priced vehicles for brand-based premium pricing strategy.
+3. Color Stock Strategy:
+   - Maintain strong stock of Silver, Black, and White vehicles — they sell well and appeal to a broad customer base.
+   - Consider bundling marketing strategies (ads, promotions) around these colors.
+
+5. Brand-Level Promotions:
+   - Promote Toyota, Ford, and Chevrolet heavily — their popularity means faster sales turnover.
+   - Consider extended warranty or service packages for these brands to boost sales volume.
+owv-izmj-kcg
+6. Data-Driven Pricing:
+   - Implement a pricing model based on mileage, brand, and color popularity to optimize profit while staying competitive.
+
+7. Market Research Extension:
+   - Regularly monitor customer preferences and competitor pricing to keep the inventory aligned with market demand.
+  
+
+### Limitations
+
+A limitation in data analysis reporting refers to any factor that restricts, weakens, or challenges the accuracy, scope, or generalizability of the analysis results.
+
+While the analysis provided key insights into car pricing and brand performance, limitations such as missing mileage data and lack of customer purchase history may have affected the completeness of the conclusions. Future analysis should aim to include these data points for a more comprehensive overview.”
+
+  
+  
  
  
 
