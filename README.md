@@ -35,7 +35,7 @@ This Data Analysis Project aims to provide insight from a dataset containing det
 
 ### Tools
 
--Excel [Website] (https: office.com)
+-Excel [Website] (https:office.com)
 - Jupyter Notebook
 
 
