@@ -39,6 +39,27 @@ This Data Analysis Project aims to provide insight from a dataset containing det
 - Jupyter Notebook
 
 
+### Cleaning and Preprocessing the Dataset
+ To ensure data intergrity:
+ 1. Importing Libraries & Load Dataset
+ 2. Checking for missing values
+ 3. Remioving duplicates (if any)
+ 4. Removing unwanted characters from numeric columns and convert to numbers
+
+
+### EXPLORATORY Data Analysis (EDA)
+
+Key Questions
+
+- What is the general price distribution of cars in the inventory?
+- How does mileage impact the price of a car?
+- Which car brands are most commonly available in the inventory?
+- What are the most popular car colors in the dataset?
+- Are there any noticeable pricing trends based on car make and mileage?
+
+
+
+
 
 
 
