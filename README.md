@@ -47,7 +47,7 @@ This Data Analysis Project aims to provide insight from a dataset containing det
  4. Removing unwanted characters from numeric columns and convert to numbers
 
 
-### EXPLORATORY Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 Key Questions
 
@@ -57,6 +57,24 @@ Key Questions
 - What are the most popular car colors in the dataset?
 - Are there any noticeable pricing trends based on car make and mileage?
 
+
+### Data Analysis
+Code Used
+
+Import Library and Dataset 
+
+<pre> import pandas as pd
+ import numpy as np
+ import matplotlib.pyplot as plt
+ import seaborn as sns
+
+ # Load the dataset
+ df = pd.read_excel('Car Inventory.xlsx') #Ensure the Excel file is in the same folder or provide full path
+
+ # Dispaly first few rows
+ df.head() </pre>
+ 
+ 
 
 
 
