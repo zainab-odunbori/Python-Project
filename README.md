@@ -73,6 +73,22 @@ Import Library and Dataset
 
  # Dispaly first few rows
  df.head() </pre>
+
+ Clean Dataset
+ <pre>
+ #Check for missing values
+  print(df.isnull().sum())
+
+ #Remove duplicates if any
+  df = df.drop_duplicates()
+
+  # Remove unwanted characters from numeric characters and convert to numbers
+  df['Price'] = df['Price'].replace('[\$,]',", regex=True).astype(float)
+  df['Cost'] = df['Cost'].replace('[\$,]',", regex=True).astype(float)
+  df['Mileage'] = df['Mileage'].replace('[,]',", regex=True).astype(int)
+
+  #Verify data types print(df.dtypes) </pre>
+  
  
  
 
