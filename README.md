@@ -10,16 +10,28 @@ The Car Inventory Analysis project is designed to explore and analyze key insigh
 - Identify important insights that can help in pricing and inventory management.
 
 ## Expected Outcomes 
+
 - A comprehensive understanding of the dataset through summary statistics.
 - Clear visual representations of car price distribution, mileage vs. price trends, and car counts by brand and color.
 - Identification of key factors affecting car pricing and inventory trends.
 - Actionable insights for decision-making in car pricing and inventory planning.
 
-  ## Key Questions
-  - What is the general price distribution of cars in the inventory?
-  - How does mileage impact the price of a car?
-  - Which car brands are most commonly avaialble in the inventory?
-  - What are the most popular car colors in the dataset?
-  - Are there any noticeable pricing trends based?
+## Key Questions
+- What is the general price distribution of cars in the inventory?
+- How does mileage impact the price of a car?
+- Which car brands are most commonly avaialble in the inventory?
+- What are the most popular car colors in the dataset?
+- Are there any noticeable pricing trends based?
+
+
+# CAR INVENTORY ANALYSIS PROJECT
+
+
+### Project Overview
+
+This Data Analysis Project aims to provide insight from a dataset containing details about various cars, including their make, model, color, mileage, price, and cost. The project aims to uncover trends, relationships, and key patterns within the dataset.
+
+
+
 
   
