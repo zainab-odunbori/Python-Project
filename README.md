@@ -94,7 +94,7 @@ Import Library and Dataset
 
 Summary of Key Insights from the car Inventory Analysis Price Trends:
 
-1. Car Prices range: The car prices range widely, but most fall between $2000 - $4000. The avaerage car price is around $3,000, indicating a focus on affordable usedf cars.
+1. Car Prices range: The car prices range widely, but most fall between $2000 - $4000. The avaerage car price is around $3,000, indicating a focus on affordable used cars.
 2. Mileage vs. Price: Cars with lower mileage generally cost more, which is expected, there are a few high-mileage generally cost more, which is expected, there are a few high-mileage vehicles priced higher-possibly due to brand value or condition.
 3. Popular Brands: The most common brands in the inventory are Toyota, Ford, and Chevrolet. This may suggest either high customer demand or dealer preference for these brands.
 4. Car Color Prefences : Colors like Silver, Black,and White dominate the inventory. This can be useful in restocking and marketing based on color popularity.
